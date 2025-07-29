@@ -19,7 +19,7 @@ This is a simple web-based calculator that performs basic arithmetic operations,
 
 - **HTML**: Used for structuring the calculator layout.
 - **CSS**: For styling the calculator, including buttons, display, and layout.
-- **JavaScript**: For handling logic, including appending numbers, operators, performing calculations, and updating the display dynamically.
+- **TypeScript**: For handling logic, including appending numbers, operators, performing calculations, and updating the display dynamically.
 
 ---
 
@@ -29,12 +29,12 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/basic-calculator.git
+    git clone https://github.com/yourusername/basic-calculator-using-ts.git
     ```
 
 2. **Navigate to the project folder:**
     ```bash
-    cd basic-calculator
+    cd basic-calculator-using-ts
     ```
 
 3. **Open the `index.html` file in your browser:**
